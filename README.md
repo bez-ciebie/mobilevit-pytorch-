@@ -1,4 +1,4 @@
-![image](https://github.com/bez-ciebie/mobilevit-pytorch-train-infer/assets/47070146/ff3fb0da-eb93-4797-bdac-bf78d72d678d)# mobilevit-pytorch
+# mobilevit-pytorch
 根据网络结构自己修改的训练和推理的代码
 训练+推理
 权重是自己在miniimagenet上训练的，建议自己训练
