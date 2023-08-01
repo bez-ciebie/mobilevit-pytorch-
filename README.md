@@ -1,1 +1,5 @@
-# mobilevit-pytorch-
+# mobilevit-pytorch
+根据网络结构自己修改的训练和推理的代码
+训练+推理
+权重是自己在miniimagenet上训练的，建议自己训练
+这里我主要是要验证在边缘设备上可以正常推理，对模型的精度没有要求
